@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/devis-lab-banner.png" alt="Devis Lab" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/devis-lab-banner_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/devis-lab-banner.png">
+    <img alt="Devis Lab banner" src="./assets/devis-lab-banner.png" width="100%">
+  </picture>
 </p>
 
 <p align="center">
