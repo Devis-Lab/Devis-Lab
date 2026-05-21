@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 200 38" font-family="Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="200" height="38" rx="3" fill="#1a2847"/>
+
+  <text x="6" y="8" font-size="3.5" fill="#a4b8d3">━━ devis-lab.log ━━</text>
+
+  <text x="6" y="17" font-size="5" fill="#1de9b6">$ now_brewing<tspan fill="#a4b8d3">()</tspan></text>
+
+  <text x="10" y="25" font-size="4.5" fill="#80cbc4">
+    <tspan>→ </tspan>
+    <tspan>
+      AI workflows for content ops
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" keyTimes="0;0.22;0.25;0.5;0.75;0.97;0.99;1" dur="10s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="10" y="25" font-size="4.5" fill="#80cbc4">
+    <tspan>→ </tspan>
+    <tspan>
+      Automation pipelines
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.24;0.27;0.47;0.5;0.75;0.97;1" dur="10s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="10" y="25" font-size="4.5" fill="#80cbc4">
+    <tspan>→ </tspan>
+    <tspan>
+      Digital products
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.24;0.49;0.52;0.55;0.72;0.75;1" dur="10s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="10" y="25" font-size="4.5" fill="#80cbc4">
+    <tspan>→ </tspan>
+    <tspan>
+      Brand experiments
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.24;0.49;0.72;0.74;0.77;0.8;1" dur="10s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <rect x="90" y="21" width="3" height="5" fill="#1de9b6">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="6" y="34" font-size="3.5" fill="#b388ff">// rotating · automation · digital products · ai-tools</text>
+</svg>
