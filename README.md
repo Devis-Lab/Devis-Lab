@@ -1,11 +1,16 @@
+# Devis Lab
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/devis-lab-banner_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/devis-lab-banner.png">
-    <img alt="Devis Lab banner" src="./assets/devis-lab-banner.png" width="100%">
-  </picture>
+  <a href="https://devis-lab.pages.dev/brand-lab">
+    <img alt="Devis Lab - Step into the Lab" src="https://devis-lab.pages.dev/brand/github-banner-pixel-blue-dark.png" width="100%">
+  </a>
 </p>
 
 <p align="center">
-  Building digital products, automation, and AI-powered tools.
+  <strong>Small lab. Big projects. Clear signal.</strong><br>
+  Building digital products, automations and AI-powered tools.
+</p>
+
+<p align="center">
+  <a href="https://devis-lab.pages.dev/brand-lab"><strong>Take me to the Lab -></strong></a>
 </p>
