@@ -11,44 +11,35 @@
     </style>
   </defs>
 
-  <!-- ===== DEVISLAB pixel text (nad kolba, fade in/out 4s) ===== -->
   <g class="devislab">
-    <!-- D (x=6-8) -->
     <rect x="6" y="2" width="2" height="1" fill="#4decd4"/>
     <rect x="6" y="3" width="1" height="1" fill="#4decd4"/><rect x="8" y="3" width="1" height="1" fill="#4decd4"/>
     <rect x="6" y="4" width="1" height="1" fill="#4decd4"/><rect x="8" y="4" width="1" height="1" fill="#4decd4"/>
     <rect x="6" y="5" width="1" height="1" fill="#4decd4"/><rect x="8" y="5" width="1" height="1" fill="#4decd4"/>
     <rect x="6" y="6" width="2" height="1" fill="#4decd4"/>
-    <!-- E (x=10-12) -->
     <rect x="10" y="2" width="3" height="1" fill="#4decd4"/>
     <rect x="10" y="3" width="1" height="1" fill="#4decd4"/>
     <rect x="10" y="4" width="2" height="1" fill="#4decd4"/>
     <rect x="10" y="5" width="1" height="1" fill="#4decd4"/>
     <rect x="10" y="6" width="3" height="1" fill="#4decd4"/>
-    <!-- V (x=14-16) -->
     <rect x="14" y="2" width="1" height="1" fill="#4decd4"/><rect x="16" y="2" width="1" height="1" fill="#4decd4"/>
     <rect x="14" y="3" width="1" height="1" fill="#4decd4"/><rect x="16" y="3" width="1" height="1" fill="#4decd4"/>
     <rect x="14" y="4" width="1" height="1" fill="#4decd4"/><rect x="16" y="4" width="1" height="1" fill="#4decd4"/>
     <rect x="15" y="5" width="1" height="1" fill="#4decd4"/>
     <rect x="15" y="6" width="1" height="1" fill="#4decd4"/>
-    <!-- I (x=18) -->
     <rect x="18" y="2" width="1" height="5" fill="#4decd4"/>
-    <!-- S (x=20-22) -->
     <rect x="21" y="2" width="2" height="1" fill="#4decd4"/>
     <rect x="20" y="3" width="1" height="1" fill="#4decd4"/>
     <rect x="21" y="4" width="1" height="1" fill="#4decd4"/>
     <rect x="22" y="5" width="1" height="1" fill="#4decd4"/>
     <rect x="20" y="6" width="2" height="1" fill="#4decd4"/>
-    <!-- L (x=24-26) -->
     <rect x="24" y="2" width="1" height="4" fill="#4decd4"/>
     <rect x="24" y="6" width="3" height="1" fill="#4decd4"/>
-    <!-- A (x=28-30) -->
     <rect x="29" y="2" width="1" height="1" fill="#4decd4"/>
     <rect x="28" y="3" width="1" height="1" fill="#4decd4"/><rect x="30" y="3" width="1" height="1" fill="#4decd4"/>
     <rect x="28" y="4" width="3" height="1" fill="#4decd4"/>
     <rect x="28" y="5" width="1" height="1" fill="#4decd4"/><rect x="30" y="5" width="1" height="1" fill="#4decd4"/>
     <rect x="28" y="6" width="1" height="1" fill="#4decd4"/><rect x="30" y="6" width="1" height="1" fill="#4decd4"/>
-    <!-- B (x=32-34) -->
     <rect x="32" y="2" width="2" height="1" fill="#4decd4"/>
     <rect x="32" y="3" width="1" height="1" fill="#4decd4"/><rect x="34" y="3" width="1" height="1" fill="#4decd4"/>
     <rect x="32" y="4" width="2" height="1" fill="#4decd4"/>
@@ -56,7 +47,6 @@
     <rect x="32" y="6" width="2" height="1" fill="#4decd4"/>
   </g>
 
-  <!-- ===== CLUSTERS (przesuniete +y=8) ===== -->
   <g class="cl-l">
     <rect x="2" y="36" width="2" height="2" fill="#4decd4"/>
     <rect x="1" y="39" width="1" height="1" fill="#80f4e5"/>
@@ -67,7 +57,6 @@
     <rect x="40" y="38" width="1" height="1" fill="#4decd4"/>
   </g>
 
-  <!-- ===== MINT PARTICLES (z otworu kolby y=19, leca do y=8 nad napis) ===== -->
   <rect width="1" height="1" fill="#4decd4">
     <animate attributeName="x" values="21;20;18" dur="2.4s" repeatCount="indefinite"/>
     <animate attributeName="y" values="19;14;9" dur="2.4s" repeatCount="indefinite"/>
@@ -99,19 +88,15 @@
     <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.7;1" dur="2.5s" repeatCount="indefinite" begin="1.8s"/>
   </rect>
 
-  <!-- ===== ELIXIR (przesuniety +y=8: kork y=23, base y=58) ===== -->
-  <!-- CORK -->
   <rect x="19" y="23" width="6" height="1" fill="#4a5680"/>
   <rect x="18" y="24" width="8" height="2" fill="#5f7a9f"/>
   <rect x="19" y="25" width="6" height="1" fill="#4a5680"/>
   <rect x="17" y="26" width="10" height="1" fill="#7a8cb3"/>
 
-  <!-- NECK -->
   <rect x="18" y="27" width="2" height="6" fill="#5f7a9f"/>
   <rect x="24" y="27" width="2" height="6" fill="#5f7a9f"/>
   <rect x="20" y="27" width="4" height="6" fill="#1a2847" opacity="0.4"/>
 
-  <!-- LEFT WALL -->
   <rect x="17" y="33" width="2" height="1" fill="#5f7a9f"/>
   <rect x="16" y="34" width="2" height="1" fill="#5f7a9f"/>
   <rect x="15" y="35" width="2" height="1" fill="#5f7a9f"/>
@@ -126,7 +111,6 @@
   <rect x="6"  y="44" width="2" height="1" fill="#5f7a9f"/>
   <rect x="6"  y="45" width="2" height="13" fill="#5f7a9f"/>
 
-  <!-- RIGHT WALL -->
   <rect x="25" y="33" width="2" height="1" fill="#5f7a9f"/>
   <rect x="26" y="34" width="2" height="1" fill="#5f7a9f"/>
   <rect x="27" y="35" width="2" height="1" fill="#5f7a9f"/>
@@ -141,7 +125,6 @@
   <rect x="36" y="44" width="2" height="1" fill="#5f7a9f"/>
   <rect x="36" y="45" width="2" height="13" fill="#5f7a9f"/>
 
-  <!-- INSIDE GLASS -->
   <rect x="19" y="33" width="6" height="1" fill="#1a2847" opacity="0.4"/>
   <rect x="18" y="34" width="8" height="1" fill="#1a2847" opacity="0.4"/>
   <rect x="17" y="35" width="10" height="1" fill="#1a2847" opacity="0.4"/>
@@ -151,7 +134,6 @@
   <rect x="13" y="39" width="18" height="1" fill="#1a2847" opacity="0.4"/>
   <rect x="12" y="40" width="20" height="1" fill="#1a2847" opacity="0.4"/>
 
-  <!-- LIQUID -->
   <rect x="12" y="40" width="20" height="1" fill="#4decd4"/>
   <rect x="11" y="41" width="22" height="1" fill="#26d4c0"/>
   <rect x="10" y="42" width="24" height="1" fill="#26c6da"/>
@@ -170,14 +152,12 @@
   <rect x="8"  y="55" width="28" height="1" fill="#311b92"/>
   <rect x="8"  y="56" width="28" height="1" fill="#1a2847"/>
 
-  <!-- MINT CORE -->
   <g class="core">
     <rect x="21" y="47" width="2" height="2" fill="#4decd4"/>
     <rect x="20" y="48" width="1" height="1" fill="#80f4e5"/>
     <rect x="23" y="48" width="1" height="1" fill="#80f4e5"/>
   </g>
 
-  <!-- BUBBLES -->
   <rect x="14" y="50" width="2" height="2" fill="#80f4e5">
     <animate attributeName="y" values="54;50;46" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
@@ -187,11 +167,9 @@
     <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite" begin="0.5s"/>
   </rect>
 
-  <!-- BASE -->
   <rect x="6" y="58" width="32" height="2" fill="#3d4a6b"/>
   <rect x="7" y="60" width="30" height="1" fill="#2d3b58"/>
 
-  <!-- HIGHLIGHT -->
   <rect x="10" y="43" width="1" height="10" fill="#4decd4" opacity="0.5"/>
   <rect x="18" y="29" width="1" height="3" fill="#80f4e5" opacity="0.6"/>
 </svg>

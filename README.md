@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>Small lab. Big projects. Clear signal.</strong><br>
-  Building digital products, automations and AI-powered tools.
+  Digital products, automations, and practical tools built with care.
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/elixir-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/elixir-light.svg">
-      <img alt="Lab elixir — click to enter the Lab" src="assets/elixir-dark.svg" width="160">
+      <img alt="Devis Lab elixir" src="assets/elixir-dark.svg" width="160">
     </picture>
   </a>
   <br>
-  <a href="https://devis-lab.pages.dev/"><strong><big>Take me to the Lab -></big></strong></a>
+  <a href="https://devis-lab.pages.dev/"><strong><big>Enter the Lab -></big></strong></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/brewing-now-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/brewing-now-light.svg">
-      <img alt="Currently brewing — AI workflows, automation pipelines, digital products, brand experiments" src="assets/brewing-now-dark.svg" width="100%">
+      <img alt="Current work: workflows, automation pipelines, digital products, brand experiments" src="assets/brewing-now-dark.svg" width="100%">
     </picture>
   </a>
 </p>
@@ -45,7 +45,7 @@
 
 <p align="center">
   <sub>
-    Copyright © 2026 Devis Lab. All rights reserved.<br>
-    This repository is shared publicly for portfolio and reference purposes only. No license is granted to use, copy, modify, distribute, or reuse the source code, design system, logo, name, brand assets, visual identity, animations, or README components without explicit written permission.
+    Copyright (c) 2026 Devis Lab. All rights reserved.<br>
+    Public portfolio repository. Brand assets and visual identity may not be reused without written permission.
   </sub>
 </p>
