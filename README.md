@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>Small lab. Big projects. Clear signal.</strong><br>
-  Digital products, automations, and practical tools built with care.
+   Building digital products, automations, and AI-powered tools.
 </p>
 
 <p align="center">
