@@ -44,8 +44,5 @@
 ---
 
 <p align="center">
-  <sub>
-    Copyright (c) 2026 Devis Lab. All rights reserved.<br>
-    Public portfolio repository. Brand assets and visual identity may not be reused without written permission.
-  </sub>
+ 
 </p>
